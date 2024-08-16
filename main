@@ -1,0 +1,68 @@
+public class main{
+
+    public static void main(String[] args){
+/*      
+        Variaveis
+        var nome = "Mario";
+        int idade = 23;
+        int salario;
+        salario = 1200;
+
+        Data Types
+        Byte - 8 , short - 16 , int - 32 , long - 64
+
+        bolean_ebr = true;
+
+        Char letter = `a`
+        
+        double x float
+        double dinheiro = 500.75; Double more precision
+        float slario = 1500.80f; float simple
+
+        if else if else
+
+        arrays
+
+        int[] numbers_luck = new int[10] 
+        number_luck.lenght
+
+        import java.util.ArrayList;
+        ArrayList <Integer> idades = new ArrayList <Integer>();
+        idades.add(12);
+        idades.remove(index: 0)
+        idades.get(1)
+        idades.size(); 
+        
+
+        LOOPS
+
+        While x For
+        
+        int idade = 10;
+        for (var i= 0; i < 10; i++){
+            system.out.println("Oi");
+        }
+
+        int i = 0
+
+        while(i<idade){
+            i++1;
+        }
+            Casting
+        int carros = 23;
+        double carros2 = carros;
+        
+        The method dont work int for double, only double for int
+        
+        carros =(int) carros2
+        char letra = 'p';
+        String name = String.valueOf(letra);
+        letra = name.charAt(0);
+        int idade =19;
+        String age = String.valueOf(idade);
+        idade = Integer.parseInt(age)
+        
+
+        */
+    }
+}

@@ -20,6 +20,7 @@ Faça um programa em Java que receba um número, referente à base de uma potên
             }
         }
         System.out.println("O resultado da potencia de segundo grau é: " + soma);
+        input.close();
     }
   
 }

@@ -20,4 +20,5 @@ public class Teste{
     p_value3 = input.nextInt();
     final_grade = (grade1 * p_value1 + grade2 * p_value2 + grade3 * p_value3) / (p_value1+p_value2 + p_value3);
     System.out.println("Your Final grade is : " + final_grade);
+    input.close();
 }}

@@ -23,6 +23,8 @@ public class l5q1 {
         System.out.println(fibo);
         fibo1=fibo2;
         fibo2=fibo;
-    }}
+      }
+    }
+    input.close();
   }
 }}

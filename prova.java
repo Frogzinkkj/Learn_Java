@@ -19,6 +19,6 @@ Obs.: Só é necessário mostrar na tela o resultado final da soma. */
             }
         }
         System.out.println("A soma dos múltiplos de A que são menores que B é: " + soma);
-
+        input.close();
 }
 }

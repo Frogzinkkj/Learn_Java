@@ -1,3 +1,4 @@
+package dps;
 import java.util.Scanner;
 
 public class triangulo {
@@ -40,5 +41,6 @@ public class triangulo {
         System.out.println("É Escaleno");
       }
     }
+    
   }
 }

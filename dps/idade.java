@@ -1,3 +1,4 @@
+package dps;
 import java.util.Scanner;
 
 public class idade{

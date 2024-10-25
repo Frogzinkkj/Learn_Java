@@ -1,3 +1,5 @@
+package dps;
+
 import java.util.Scanner;
 public class natacao {
   public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package dps;
 import java.util.Scanner;
 public class prova2 {
     public static void main(String[] args) {
@@ -20,6 +21,7 @@ Faça um programa em Java que receba um número, referente à base de uma potên
             }
         }
         System.out.println("O resultado da potencia de segundo grau é: " + soma);
+        
         input.close();
     }
   

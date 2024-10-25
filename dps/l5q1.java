@@ -1,3 +1,4 @@
+package dps;
 import java.util.Scanner;
 
 public class l5q1 {
@@ -21,6 +22,7 @@ public class l5q1 {
       for (int i = 3; i < n; i++){
         fibo = fibo1 + fibo2;
         System.out.println(fibo);
+        
         fibo1=fibo2;
         fibo2=fibo;
       }

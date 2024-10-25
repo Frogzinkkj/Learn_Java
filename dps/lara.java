@@ -1,10 +1,12 @@
+package dps;
 public class lara {
   public static void main(String[] args) {
-    int a = 10;
-    int b = 20;
-    int maior = (a > b) ? a : b;
-
-    System.out.println(maior);
+    
+    /*Considerando que não é verdade que Lara Croft não pode pular ou não pode escala */
+    boolean podePular = true;
+    boolean podeEscalar = false;
+    boolean resultado = (podePular || podeEscalar);
+    System.out.println(resultado);
   }
-
+  
 }

@@ -1,4 +1,4 @@
-package OPP;
+package OPP.Ninjas;
 
 public class Ninjat1 {
   private String nome;

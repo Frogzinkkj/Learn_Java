@@ -1,4 +1,4 @@
-package OPP;
+package OPP.Ninjas;
 
 public class T1 {
   public static void main(String[] args) {

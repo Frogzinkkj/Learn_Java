@@ -1,4 +1,4 @@
-package OPP;
+package OPP.Ninjas;
 
 public class Uzumaki extends Ninjat1{
   
